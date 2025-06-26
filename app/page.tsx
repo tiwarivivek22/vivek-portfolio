@@ -67,16 +67,16 @@ export default function Portfolio() {
         "A cultural travel homestay platform connecting travelers with authentic local experiences and traditional accommodations.",
       tech: ["React", "Node.js", "MongoDB", "Express"],
       icon: <Home className="w-6 h-6" />,
-      githubLink: "https://github.com/vivekprabhat/namaste-kutumbh",
+      githubLink: "https://github.com/tiwarivivek22/Namaste-Kutumbh",
       liveLink: "https://namaste-kutumbh.vercel.app",
     },
     {
-      title: "Black Collar",
+      title: "Calculator",
       description:
-        "Job connectivity platform specifically designed to bridge employment opportunities for underprivileged communities.",
+        "JThis is Calculator in java, how to run and how it's working happened",
       tech: ["JavaScript", "React", "MongoDB", "Node.js"],
       icon: <Users className="w-6 h-6" />,
-      githubLink: "https://github.com/vivekprabhat/black-collar",
+      githubLink: "https://github.com/tiwarivivek22/Calculator",
       liveLink: "https://black-collar.vercel.app",
     },
     {
@@ -85,7 +85,7 @@ export default function Portfolio() {
         "Comprehensive gym management platform featuring admin dashboard for gym owners and member login portal for fitness tracking.",
       tech: ["Java", "React", "MongoDB", "Spring Boot"],
       icon: <Dumbbell className="w-6 h-6" />,
-      githubLink: "https://github.com/vivekprabhat/fittrack",
+      githubLink: "https://github.com/tiwarivivek22/GYM-WEBSITE",
       liveLink: "https://fittrack-gym.vercel.app",
     },
   ]
@@ -492,6 +492,7 @@ export default function Portfolio() {
           </div>
         </div>
       </section>
+
 
       {/* Research Section */}
       <section id="research" className="py-20 px-4 bg-gray-800/50">
