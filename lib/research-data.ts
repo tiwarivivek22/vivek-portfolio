@@ -30,7 +30,7 @@ export const researchPapers: ResearchPaper[] = [
   {
     id: "1",
     title: "A Research Review on the Role of Plastic-Eating Microscopic Organisms in interept Global Pollution",
-    authors: ["Dr. Manisha Agrawal","Vivek Prabhat", "Mr. Deepak Kumar"],
+    authors: ["Dr. Manisha Agrawal", "Vivek Prabhat", "Mr. Deepak Kumar"],
     journal: "G-CARED 2025 - First Global Conference on AI Research and Emerging Developments",
     year: 2025,
     abstract:
@@ -44,13 +44,13 @@ export const researchPapers: ResearchPaper[] = [
   {
     id: "2",
     title: "A Theoretical Analysis of Using Traditional Method of Teaching to Get Around Some Of the Challenges of E-Learning Programmes",
-    authors: ["Dr. Manisha Agrawal","Vivek Prabhat", "Dr. Puneet Garg"],
+    authors: ["Dr. Manisha Agrawal", "Vivek Prabhat", "Dr. Puneet Garg"],
     journal: "30st International Conference of International Academy of Physical Sciences (CONIAPS XXX)",
     year: 2024,
     abstract:
-      "This research investigates performance optimization A theoretical exploration of how traditional teaching methods can address key limitations and challenges faced by modern e-learning programs.",
+      "This research investigates performance optimization and explores how traditional teaching methods can address key limitations and challenges faced by modern e-learning programs.",
     keywords: ["Traditional Teaching Methods", "E-Learning Challenges", "Student Engagement", "Digital Divide", "Scalability"],
-    pdfUrl: "https://drive.google.com/file/d/118DthK9oTubMMlJpS31PucU-dRXNJ51L/view?usp=drive_link",
+    pdfUrl: "https://docs.google.com/document/d/1gAMSaDrWxRdfzWA_DsoLMEaC6koNgS64/edit?usp=drive_link&ouid=101550848481846868023&rtpof=true&sd=true",
     citationCount: 8,
     status: "published",
     category: "conference",
