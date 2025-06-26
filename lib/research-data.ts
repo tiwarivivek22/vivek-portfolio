@@ -50,7 +50,7 @@ export const researchPapers: ResearchPaper[] = [
     abstract:
       "This research investigates performance optimization A theoretical exploration of how traditional teaching methods can address key limitations and challenges faced by modern e-learning programs.",
     keywords: ["Traditional Teaching Methods", "E-Learning Challenges", "Student Engagement", "Digital Divide", "Scalability"],
-    pdfUrl: "#",
+    pdfUrl: "https://drive.google.com/file/d/118DthK9oTubMMlJpS31PucU-dRXNJ51L/view?usp=drive_link",
     citationCount: 8,
     status: "published",
     category: "conference",
